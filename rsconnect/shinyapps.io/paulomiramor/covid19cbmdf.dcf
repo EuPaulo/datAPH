@@ -1,0 +1,12 @@
+name: covid19cbmdf
+title: covid19cbmdf
+username:
+account: paulomiramor
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1977152
+bundleId: 3003244
+url: https://paulomiramor.shinyapps.io/covid19cbmdf/
+when: 1586702159.51619
+asMultiple: FALSE
+asStatic: FALSE
